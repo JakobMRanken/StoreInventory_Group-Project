@@ -29,8 +29,31 @@ namespace Project
             _distributor = distributor;
         }
 
-        // PROPERTIES
-
+        public string GetProductName()
+        {
+            return _name;
+        }
+        public string GetProductUPC()
+        {
+            return _upc;
+        }
+        public decimal GetStorePrice()
+        {
+            return _storePrice;
+        }
+        public decimal GetCostPerCase()
+        {
+            return _costPerCase;
+        }
+        public int GetUnitPerCase()
+        {
+            return _unitsPerCase;
+        }
+        public string GetDistributor()
+        {
+            return _distributor;
+        }
+        //Properties
         public string Name
         {
             get { return _name; }
@@ -66,5 +89,6 @@ namespace Project
             get { return _distributor; }
             set { _distributor = value; }
         }
+       
     }
 }

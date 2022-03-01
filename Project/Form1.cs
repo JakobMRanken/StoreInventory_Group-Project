@@ -73,12 +73,26 @@ namespace Project
         {
             string name = txtNameSearch.Text;
             SearchByName(name);
+
+            lblItemName.Text = activeProduct.GetProductName();
+            lblUpc.Text = activeProduct.GetProductUPC();
+            lblStorePrice.Text = activeProduct.GetStorePrice().ToString();
+            lblCost.Text = activeProduct.GetCostPerCase().ToString();
+            lblUnitsPer.Text = activeProduct.GetUnitPerCase().ToString();
+            lblDistributor.Text = activeProduct.GetDistributor();
         }
 
         private void btnSearchUpc_Click(object sender, EventArgs e)
         {
             string upc = txtUpcSearch.Text;
             SearchByUpc(upc);
+
+            lblItemName.Text = activeProduct.GetProductName();
+            lblUpc.Text = activeProduct.GetProductUPC();
+            lblStorePrice.Text = activeProduct.GetStorePrice().ToString();
+            lblCost.Text = activeProduct.GetCostPerCase().ToString();
+            lblUnitsPer.Text = activeProduct.GetUnitPerCase().ToString();
+            lblDistributor.Text = activeProduct.GetDistributor();
         }
 
         private void btnUpdate_Click(object sender, EventArgs e)
