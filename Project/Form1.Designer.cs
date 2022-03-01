@@ -90,6 +90,7 @@
             this.btnSearchName.TabIndex = 46;
             this.btnSearchName.Text = "Search";
             this.btnSearchName.UseVisualStyleBackColor = true;
+            this.btnSearchName.Click += new System.EventHandler(this.btnSearchName_Click);
             // 
             // lblKeyError3
             // 
@@ -144,6 +145,7 @@
             this.btnUpdate.TabIndex = 20;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // label15
             // 
@@ -208,6 +210,7 @@
             this.btnDelete.TabIndex = 21;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // label17
             // 
@@ -394,6 +397,7 @@
             this.btnAdd.TabIndex = 5;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // lblDistributor
             // 
@@ -515,6 +519,7 @@
             this.btnSearchUpc.TabIndex = 47;
             this.btnSearchUpc.Text = "Search";
             this.btnSearchUpc.UseVisualStyleBackColor = true;
+            this.btnSearchUpc.Click += new System.EventHandler(this.btnSearchUpc_Click);
             // 
             // Form1
             // 
