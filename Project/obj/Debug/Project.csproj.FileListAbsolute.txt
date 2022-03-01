@@ -1,0 +1,11 @@
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\bin\Debug\Project.exe.config
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\bin\Debug\Project.exe
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\bin\Debug\Project.pdb
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.exe
+C:\Users\morel\Documents\Ranken\Classes\Spring 2022\Programming and Fundamentals C#\Repositories\StoreInventory_Group-Project\Project\obj\Debug\Project.pdb
